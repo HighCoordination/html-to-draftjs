@@ -6,6 +6,7 @@ const inlineTags = {
   strong: 'BOLD',
   b: 'BOLD',
   ins: 'UNDERLINE',
+  u: 'UNDERLINE',
   sub: 'SUBSCRIPT',
   sup: 'SUPERSCRIPT',
 };
